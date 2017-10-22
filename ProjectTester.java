@@ -117,14 +117,18 @@ public class ProjectTester {
   
   @Test
   public void test_simple_example_10() {
-    assertFalse(simple_example.isWellSorted(new String[]{"A", "C", "C", "A"}));
+    assertFalse(simple_example.isWellSorted(new String[]{"A", "B", "C", "A"}));
   }
 
   @Test
   public void test_complex_graph_3() {
     assertFalse(complex_graph.isWellSorted(new String[]{"A","B","D","C","E","G","F"}));
   }
-
+  
+  @Test
+  public void test_complex_graph_4() {
+	  assertTrue(complex_graph.isWellSorted(new String[]{"B","A","C","D","E","F","G"}));
+  }
 
 }
     

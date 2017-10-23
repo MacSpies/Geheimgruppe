@@ -1,0 +1,10 @@
+Stakeholder Analyse
+
+Stakeholder:
+	- Kunden (extern, aktiv)
+	- Eigentümer (intern, passiv)
+	- Administrator (intern, aktiv)
+	- Staat (extern, passiv)
+
+Kunden profitieren von schnellerem und effektiverem Parken.
+Eigentümer profitiert von mehr Gewinn aufgrund niedrigerer Kosten.

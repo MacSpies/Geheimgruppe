@@ -1,0 +1,29 @@
+1. Als Nutzer möchte ich, dass ich zu einem Parkplatz gewiesen werde, um schneller parken zu können.
+Mehwert:5	Erfahrung:5	Aufwand:5	Risiko: 3	---> Priorität: 1,66
+
+2. Als Manager benötige ich Zugriff auf den Umsatz, um ihn weitergeben zu können.
+Mehwert:5	Erfahrung:1	Aufwand:1	Risiko: 1	---> Priorität:	5
+
+3. Als Kunde möchte ich eine Anzeige für Parkplätze, um sehen zu können, ob noch Plätze frei sind.
+Mehwert:6	Erfahrung:5	Aufwand:4	Risiko: 2	---> Priorität:	3,75
+
+4. Als Manager benötige ich eine Einlass- und Auslasskontrolle, um die Dauer des Parkens bestimmen zu können.
+Mehwert:9	Erfahrung:4	Aufwand:4	Risiko: 2	---> Priorität: 4,5
+
+5. Als Manager benötige ich ein Bezahlsystem, um Geld verdienen zu können.
+Mehwert:9	Erfahrung:1	Aufwand:1	Risiko: 1	---> Priorität:	9
+
+6. Als Kunde möchte ich eine Anzeige mit den Öffnungszeiten, um meinen Aufenthalt planen zu können.
+Mehwert:8	Erfahrung:2	Aufwand:2	Risiko: 1	---> Priorität:	8
+
+7. Als Kunde benötige ich eine Preisanzeige, um den Preis nachvollziehen zu können.
+Mehwert:9	Erfahrung:2	Aufwand:2	Risiko: 1	---> Priorität:	9
+
+8. Als Kunde möchte ich eine Notfallregelung, um sicher aus dem Parkhaus kommen zu können.
+Mehwert:9	Erfahrung:3	Aufwand:4	Risiko: 1	---> Priorität:	6,75
+
+9. Als Manager möchte ich den täglichen,wöchentlichen, monatlichen  Gewinn sehen können, um den Überblick behalten zu können.
+Mehwert:5	Erfahrung:4	Aufwand:5	Risiko: 1	---> Priorität:	4
+
+10. Als Manager möchte ich eine regelmäßige Wartung des digitalen Parkhauses, um möglichst problemloses Parken gewährleisten zu können.
+Mehwert:9	Erfahrung:2	Aufwand:5	Risiko: 1	---> Priorität:	3,6

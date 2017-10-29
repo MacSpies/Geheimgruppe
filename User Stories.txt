@@ -1,29 +1,29 @@
-1. Als Nutzer mˆchte ich, dass ich zu einem Parkplatz gewiesen werde, um schneller parken zu kˆnnen.
-Mehwert:5	Erfahrung:5	Aufwand:5	Risiko: 3	---> Priorit‰t: 1,66
+1. Als Nutzer m√∂chte ich, dass ich zu einem Parkplatz gewiesen werde, um schneller parken zu k√∂nnen.
+Mehrwert:5	Erfahrung:5	Aufwand:5	Risiko: 3	---> Priorit√§t: 1,66
 
-2. Als Manager benˆtige ich Zugriff auf den Umsatz, um ihn weitergeben zu kˆnnen.
-Mehwert:5	Erfahrung:1	Aufwand:1	Risiko: 1	---> Priorit‰t:	5
+2. Als Manager ben√∂tige ich Zugriff auf den Umsatz, um ihn weitergeben zu k√∂nnen.
+Mehrwert:5	Erfahrung:1	Aufwand:1	Risiko: 1	---> Priorit√§t:	5
 
-3. Als Kunde mˆchte ich eine Anzeige f¸r Parkpl‰tze, um sehen zu kˆnnen, ob noch Pl‰tze frei sind.
-Mehwert:6	Erfahrung:5	Aufwand:4	Risiko: 2	---> Priorit‰t:	3,75
+3. Als Kunde m√∂chte ich eine Anzeige f√ºr Parkpl√§tze, um sehen zu k√∂nnen, ob noch Pl√§tze frei sind.
+Mehrwert:6	Erfahrung:5	Aufwand:4	Risiko: 2	---> Priorit√§t:	3,75
 
-4. Als Manager benˆtige ich eine Einlass- und Auslasskontrolle, um die Dauer des Parkens bestimmen zu kˆnnen.
-Mehwert:9	Erfahrung:4	Aufwand:4	Risiko: 2	---> Priorit‰t: 4,5
+4. Als Manager ben√∂tige ich eine Einlass- und Auslasskontrolle, um die Dauer des Parkens bestimmen zu k√∂nnen.
+Mehrwert:9	Erfahrung:4	Aufwand:4	Risiko: 2	---> Priorit√§t: 4,5
 
-5. Als Manager benˆtige ich ein Bezahlsystem, um Geld verdienen zu kˆnnen.
-Mehwert:9	Erfahrung:1	Aufwand:1	Risiko: 1	---> Priorit‰t:	9
+5. Als Manager ben√∂tige ich ein Bezahlsystem, um Geld verdienen zu k√∂nnen.
+Mehrwert:9	Erfahrung:1	Aufwand:1	Risiko: 1	---> Priorit√§t:	9
 
-6. Als Kunde mˆchte ich eine Anzeige mit den ÷ffnungszeiten, um meinen Aufenthalt planen zu kˆnnen.
-Mehwert:8	Erfahrung:2	Aufwand:2	Risiko: 1	---> Priorit‰t:	8
+6. Als Kunde m√∂chte ich eine Anzeige mit den √ñffnungszeiten, um meinen Aufenthalt planen zu k√∂nnen.
+Mehrwert:8	Erfahrung:2	Aufwand:2	Risiko: 1	---> Priorit√§t:	8
 
-7. Als Kunde benˆtige ich eine Preisanzeige, um den Preis nachvollziehen zu kˆnnen.
-Mehwert:9	Erfahrung:2	Aufwand:2	Risiko: 1	---> Priorit‰t:	9
+7. Als Kunde ben√∂tige ich eine Preisanzeige, um den Preis nachvollziehen zu k√∂nnen.
+Mehrwert:9	Erfahrung:2	Aufwand:2	Risiko: 1	---> Priorit√§t:	9
 
-8. Als Kunde mˆchte ich eine Notfallregelung, um sicher aus dem Parkhaus kommen zu kˆnnen.
-Mehwert:9	Erfahrung:3	Aufwand:4	Risiko: 1	---> Priorit‰t:	6,75
+8. Als Kunde m√∂chte ich eine Notfallregelung, um sicher aus dem Parkhaus kommen zu k√∂nnen.
+Mehrwert:9	Erfahrung:3	Aufwand:4	Risiko: 1	---> Priorit√§t:	6,75
 
-9. Als Manager mˆchte ich den t‰glichen,wˆchentlichen, monatlichen  Gewinn sehen kˆnnen, um den ‹berblick behalten zu kˆnnen.
-Mehwert:5	Erfahrung:4	Aufwand:5	Risiko: 1	---> Priorit‰t:	4
+9. Als Manager m√∂chte ich den t√§glichen,w√∂chentlichen, monatlichen  Gewinn sehen k√∂nnen, um den √úberblick behalten zu k√∂nnen.
+Mehrwert:5	Erfahrung:4	Aufwand:5	Risiko: 1	---> Priorit√§t:	4
 
-10. Als Manager mˆchte ich eine regelm‰ﬂige Wartung des digitalen Parkhauses, um mˆglichst problemloses Parken gew‰hrleisten zu kˆnnen.
-Mehwert:9	Erfahrung:2	Aufwand:5	Risiko: 1	---> Priorit‰t:	3,6
+10. Als Manager m√∂chte ich eine regelm√§√üige Wartung des digitalen Parkhauses, um m√∂glichst problemloses Parken gew√§hrleisten zu k√∂nnen.
+Mehrwert:9	Erfahrung:2	Aufwand:5	Risiko: 1	---> Priorit√§t:	3,6
